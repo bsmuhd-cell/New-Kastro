@@ -1,5 +1,0 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NmE2YmFjYTYtZWM3MS0zZTJkLTllNTctOTZjNWZkNjYwZTFi
-#EXTINF:-1 tvg-ID="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png" group-title="MALAYSIAN VARIETY",101 TV1
-http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
